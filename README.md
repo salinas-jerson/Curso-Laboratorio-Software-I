@@ -1,2 +1,3 @@
 # Curso-Laboratorio-Software-I
-laboratorio
+laboratorio  
+Nombre del editor: Jerson S. A.
